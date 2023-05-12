@@ -9,3 +9,4 @@ Packages
 *.exe
 *.exe.settings
 **.pyc
+data
